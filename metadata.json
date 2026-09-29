@@ -1,0 +1,8 @@
+{
+  "name": "SkyGuard AI",
+  "description": "Intelligent AWS Sensor Monitoring & Anomaly Detection Dashboard with Isolation Forest and Reliability Scoring",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}
